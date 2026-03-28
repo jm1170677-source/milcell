@@ -1,2 +1,0 @@
-# milcell
-venta celulares
